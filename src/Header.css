@@ -1,0 +1,21 @@
+header{
+    background-color: #3b2632;
+    height:70px;
+
+}
+#brand
+{
+color:#fff;
+font-size:30px;
+float:left;
+margin-top:1%;
+margin-left:2%;
+
+
+}
+#social{
+    float:right;
+    margin-top:18px;
+    margin-right:15px
+
+}
